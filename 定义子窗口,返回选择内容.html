@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=GB18030">
+<title></title>
+<script language="javascript" type="text/javascript"> 
+function returnValue() 
+{ 
+alert("通了没有啊");
+var city = document.myform.city.value;
+//取得打开该页面(父类)的document对象
+var doc = window.opener.document;
+//将取得的信息复制给上一个页面上的result文本框
+doc.parentform.result.value = city;
+window.close();
+}
+document.write("2016-05-24下 -50周："+fn()); 
+
+
+</script> 
+</head>
+<body>
+<form name="myform">
+选择：<select name="city">
+<option value="北京">北京</option>
+<option value="天津">天津</option>
+<option value="上海">上海</option>
+<option value="广州">广州</option>
+<option value="兰州">兰州</option>
+</select>
+  <input type="button" value="返回" onClick="returnValue();"> 
+</form>
+</body>
+</html>
+ 
