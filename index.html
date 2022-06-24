@@ -1,7 +1,20 @@
-<!DOCTYPE html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=GB18030">
+<title>定义父窗口，接收子窗口返回内容</title>
+<script language="javascript" type="text/javascript"> 
+function shownewpage(thisurl) 
+{ 
+ window.open(thisurl,"弹出页面","width=470,hight=15,scrollbar=yes,resizable=no");
+}
+</script> 
+</head>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<form name="parentform">
+<input type="button" value="选择信息1" onclick="shownewpage('定义子窗口,返回选择内容.html');">
+<input type="button" value="选择信息" οnclick="shownewpage('定义子窗口,返回选择内容.html')"><br>选择
+结果：<input type ="text" name="result"> </br>
+</form> 
 </body>
 </html>
