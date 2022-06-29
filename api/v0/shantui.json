@@ -44,7 +44,7 @@
           "category": "base",
           "config": {
             "cpName": "Text",
-            "text": "如果设置里找不到游戏",
+            "text": "设置里找不到游戏点这里",
             "color": "rgba(255,0,0,1)",
             "fontSize": 24,
             "align": "center",
