@@ -1,0 +1,333 @@
+{
+  "state": 200,
+  "result": {
+    "pageConfig": {
+      "title": "闪退教程 - 品克数码"
+    },
+    "tpl": [
+       {
+        "id": "586968",
+        "item": {
+          "category": "base",
+          "config": {
+            "cpName": "XButton",
+            "bgColor": "rgba(22,40,212,1)",
+            "width": 240,
+            "marginTop": 0,
+            "padding": [
+              4,
+              10
+            ],
+            "round": 16,
+            "text": "艾诺迪亚下苹果载教程",
+            "color": "rgba(255,255,255,1)",
+            "fontSize": 15,
+            "animation": "none",
+            "animationTurn": 1,
+            "delay": 0,
+            "interaction": {
+              "type": "code",
+              "title": "",
+              "params": "",
+              "content": "window.location.href='?tid=xiazai'",
+              "height": 300,
+              "width": 300,
+              "okText": "",
+              "cancelText": "",
+              "onOk": "",
+              "btnColor": "rgba(20,54,226,100)"
+            }
+          },
+          "h": 23,
+          "type": "XButton"
+        },
+        "point": {
+          "w": 24,
+          "h": 23,
+          "x": 0,
+          "y": 66,
+          "i": "586968",
+          "moved": true,
+          "static": false,
+          "isBounded": true
+        },
+        "status": "inToCanvas"
+      },
+
+
+
+ {
+        "id": "873265",
+        "item": {
+          "category": "media",
+          "config": {
+            "cpName": "Video",
+            "isFullScreen": false,
+            "poster": [
+              {
+                "uid": "rc-upload-1656484016827-71",
+                "name": "QQ截图20220629174010.png",
+                "status": "done",
+                "url": "https://img.alicdn.com/imgextra/i2/358537674/O1CN01U8wj3m26YkAt5aCgc_!!358537674.png"
+              }
+            ],
+            "url": "https://cloud.video.taobao.com//play/u/358537674/p/2/e/6/t/1/368141810084.mp4",
+            "otherCode": ""
+          },
+          "h": 107,
+          "type": "Video"
+        },
+        "point": {
+          "w": 18,
+          "h": 360,
+          "x": 3,
+          "y": 19,
+          "i": "873265",
+          "moved": true,
+          "static": false,
+          "isBounded": true
+        },
+        "status": "inToCanvas"
+      },
+              {
+        "id": "622843",
+        "item": {
+          "category": "base",
+          "config": {
+            "cpName": "Text",
+            "text": "设置里没找到游戏点这里",
+            "color": "rgba(255,0,0,1)",
+            "fontSize": 22,
+            "align": "center",
+            "lineHeight": 2,
+            "fontWeight": "500",
+            "fontStyle": "underline",
+            "bgColor": "rgba(255,255,255,0)",
+            "padding": 0,
+            "radius": 0,
+            "animation": "none",
+            "animationTurn": 1,
+            "delay": 0,
+            "interaction": {
+              "type": "modal",
+              "title": "设置里找不到游戏",
+              "params": "",
+              "content": "<p style=\"text-align:center;\"><strong><span style=\"font-size:24px\"><span style=\"line-height:1\">原因是系统<span style=\"color:#003ba5\">未检测到游戏</span></span></span></strong></p><p style=\"text-align:center;\"><strong><span style=\"font-size:20px\"><span style=\"line-height:1\">如下操作让<span style=\"color:#07a9fe\">系统检测</span></span></span></strong></p><p></p><p></p><p><span style=\"line-height:1.5\">1.在设置-通用-语言里，把<span style=\"color:#07a9fe\">手机语言改成英语</span>。</span></p><p><span style=\"line-height:1.5\">2.<span style=\"color:#07a9fe\">打开游戏</span>，大概1秒看到logo即可退出。</span></p><p><span style=\"line-height:1.5\">3.把手机<span style=\"color:#07a9fe\">语言改回中文</span>。</span></p><p><span style=\"line-height:1.5\">4.设置里<span style=\"color:#07a9fe\">就能找到游戏了</span>，接着视频操作即可。</span></p>",
+              "height": 300,
+              "width": 380,
+              "okText": "",
+              "cancelText": "确认",
+              "onOk": "",
+              "btnColor": "rgba(20,54,226,100)"
+            }
+          },
+          "h": 20,
+          "type": "Text"
+        },
+        "point": {
+          "w": 24,
+          "h": 19,
+          "x": 0,
+          "y": 0,
+          "i": "622843",
+          "moved": true,
+          "static": false,
+          "isBounded": true
+        },
+        "status": "inToCanvas"
+      },
+      {
+        "id": "845652",
+        "item": {
+          "category": "base",
+          "config": {
+            "cpName": "Text",
+            "text": "→ →",
+            "color": "rgba(255,0,0,1)",
+            "fontSize": 19,
+            "align": "center",
+            "lineHeight": 2,
+            "fontWeight": "500",
+            "fontStyle": "none",
+            "bgColor": "rgba(255,255,255,0)",
+            "padding": 0,
+            "radius": 0,
+            "animation": "none",
+            "animationTurn": 1,
+            "delay": 0,
+            "interaction": {
+              "type": "link",
+              "title": "",
+              "params": "",
+              "content": "",
+              "height": 300,
+              "width": 300,
+              "okText": "",
+              "cancelText": "",
+              "onOk": "",
+              "btnColor": "rgba(20,54,226,100)"
+            }
+          },
+          "h": 20,
+          "type": "Text"
+        },
+        "point": {
+          "w": 6,
+          "h": 20,
+          "x": 0,
+          "y": 0,
+          "i": "845652",
+          "moved": true,
+          "static": false,
+          "isBounded": true
+        },
+        "status": "inToCanvas"
+      },
+      {
+        "id": "662229",
+        "item": {
+          "category": "base",
+          "config": {
+            "cpName": "Text",
+            "text": "← ←",
+            "color": "rgba(255,0,0,1)",
+            "fontSize": 19,
+            "align": "center",
+            "lineHeight": 2,
+            "fontWeight": "500",
+            "fontStyle": "none",
+            "bgColor": "rgba(255,255,255,0)",
+            "padding": 0,
+            "radius": 0,
+            "animation": "none",
+            "animationTurn": 1,
+            "delay": 0,
+            "interaction": {
+              "type": "link",
+              "title": "",
+              "params": "",
+              "content": "",
+              "height": 300,
+              "width": 300,
+              "okText": "",
+              "cancelText": "",
+              "onOk": "",
+              "btnColor": "rgba(20,54,226,100)"
+            }
+          },
+          "h": 20,
+          "type": "Text"
+        },
+        "point": {
+          "w": 6,
+          "h": 18,
+          "x": 18,
+          "y": 1,
+          "i": "662229",
+          "moved": true,
+          "static": false,
+          "isBounded": true
+        },
+        "status": "inToCanvas"
+      },
+     {
+        "id": "973720",
+        "item": {
+          "category": "base",
+          "config": {
+            "cpName": "Text",
+            "text": "- 品克数码 -",
+            "color": "rgba(88,88,88,1)",
+            "fontSize": 11,
+            "align": "center",
+            "lineHeight": 1,
+            "fontWeight": "600",
+            "fontStyle": "none",
+            "bgColor": "rgba(255,255,255,0)",
+            "padding": 0,
+            "radius": 0,
+            "animation": "none",
+            "animationTurn": 1,
+            "delay": 0,
+            "interaction": {
+              "type": "link",
+              "title": "",
+              "params": "",
+              "content": "",
+              "height": 300,
+              "width": 300,
+              "okText": "",
+              "cancelText": "",
+              "onOk": "",
+              "btnColor": "rgba(20,54,226,100)"
+            }
+          },
+          "h": 20,
+          "type": "Text"
+        },
+        "point": {
+          "w": 40,
+          "h": 60,
+          "x": 1,
+          "y": 380,
+          "i": "973720",
+          "moved": true,
+          "static": false,
+          "isBounded": true
+        },
+        "status": "inToCanvas"
+      },
+
+      {
+        "id": "258319",
+        "item": {
+          "category": "base",
+          "config": {
+            "cpName": "Image",
+            "imgUrl": [
+              {
+                "uid": "rc-upload-1656484016827-67",
+                "name": "logo.png",
+                "status": "done",
+                "url": "https://img.alicdn.com/imgextra/i1/358537674/O1CN01dmmOfj26YkAsJm9Rn_!!358537674.png"
+              }
+            ],
+            "round": 0,
+            "viewImage": false,
+            "fullFrame": false,
+            "interaction": {
+              "type": "",
+              "title": "",
+              "params": "",
+              "content": "",
+              "height": 300,
+              "width": 300,
+              "okText": "",
+              "cancelText": "",
+              "onOk": "",
+              "btnColor": "rgba(20,54,226,100)"
+            },
+            "animation": "none",
+            "animationTurn": 1,
+            "delay": 0
+          },
+          "h": 83,
+          "type": "Image"
+        },
+        "point": {
+          "w": 5,
+          "h": 11,
+          "x": 17,
+          "y": 26,
+          "i": "258319",
+          "moved": true,
+          "static": false,
+          "isBounded": true
+        },
+        "status": "inToCanvas",
+        "zIndex": 2
+      }
+    ]
+  },
+  "msg": ""
+}

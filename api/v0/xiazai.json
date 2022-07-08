@@ -16,7 +16,7 @@
                 "uid": "rc-upload-1656403866511-6",
                 "name": "bofang.png",
                 "status": "done",
-                "url": "https://img.alicdn.com/imgextra/i4/358537674/O1CN01oBnEqT26YkAknAdds_!!358537674.png"
+                "url": "https://img.alicdn.com/imgextra/i4/358537674/O1CN017NeK1i26YkAijLsgh_!!358537674.png"
               }
             ],
             "round": 0,
@@ -26,7 +26,7 @@
               "type": "code",
               "title": "",
               "params": "",
-              "content": " var img = document.getElementsByTagName(\"img\")[0];\n\nif(img.src=='https://img.alicdn.com/imgextra/i4/358537674/O1CN01oBnEqT26YkAknAdds_!!358537674.png'){img.src='https://img.alicdn.com/imgextra/i3/358537674/O1CN01azVZ0C26Yk9CYPAGG_!!358537674.gif' ; }else{img.src='https://img.alicdn.com/imgextra/i4/358537674/O1CN01oBnEqT26YkAknAdds_!!358537674.png';}",
+              "content": " var img = document.getElementsByTagName(\"img\")[0];\n\nif(img.src=='https://img.alicdn.com/imgextra/i4/358537674/O1CN017NeK1i26YkAijLsgh_!!358537674.png'){img.src='https://img.alicdn.com/imgextra/i2/358537674/O1CN015b5hn926YkB0vdDJV_!!358537674.gif' ; }else{img.src='https://img.alicdn.com/imgextra/i4/358537674/O1CN017NeK1i26YkAijLsgh_!!358537674.png';}",
               "height": 300,
               "width": 300,
               "okText": "",
