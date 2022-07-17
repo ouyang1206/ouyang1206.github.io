@@ -67,7 +67,7 @@
               10
             ],
             "round": 16,
-            "text": "①    艾诺迪亚下苹果载教程",
+            "text": "①    苹果下载游戏教程",
             "color": "rgba(255,255,255,1)",
             "fontSize": 15,
             "animation": "none",
@@ -163,7 +163,7 @@
               10
             ],
             "round": 16,
-            "text": "③ 游戏账号(HIVE)简易注册教程",
+            "text": "③ 游戏账号(HIVE)苹果注册教程",
             "color": "rgba(255,255,255,1)",
             "fontSize": 15,
             "animation": "none",
@@ -173,7 +173,7 @@
               "type": "code",
               "title": "",
               "params": "",
-              "content": "window.location.href='?tid=zhuce'",
+              "content": "https://cloud.video.taobao.com//play/u/358537674/p/2/e/6/t/1/369335022010.mp4",
               "height": 300,
               "width": 300,
               "okText": "",
