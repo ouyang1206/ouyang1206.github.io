@@ -1,0 +1,254 @@
+{
+  "state": 200,
+  "result": {
+    "pageConfig": {
+      "title": "艾诺迪亚 - Pynk-Co | 品克数码"
+    },
+    "tpl": [
+      {
+        "id": "758506",
+        "item": {
+          "category": "base",
+          "config": {
+            "cpName": "Image",
+            "imgUrl": [
+              {
+                "uid": "rc-upload-1656484016827-16",
+                "name": "logo.png",
+                "status": "done",
+                "url": "https://img.alicdn.com/imgextra/i1/358537674/O1CN01dmmOfj26YkAsJm9Rn_!!358537674.png"
+              }
+            ],
+            "round": 0,
+            "viewImage": false,
+            "fullFrame": false,
+            "interaction": {
+              "type": "",
+              "title": "",
+              "params": "",
+              "content": "",
+              "height": 300,
+              "width": 300,
+              "okText": "",
+              "cancelText": "",
+              "onOk": "",
+              "btnColor": "rgba(20,54,226,100)"
+            },
+            "animation": "none",
+            "animationTurn": 1,
+            "delay": 0
+          },
+          "h": 83,
+          "type": "Image"
+        },
+        "point": {
+          "w": 5,
+          "h": 16,
+          "x": 0,
+          "y": 4,
+          "i": "758506",
+          "moved": true,
+          "static": false,
+          "isBounded": true
+        },
+        "status": "inToCanvas"
+      },
+    {
+        "id": "973720",
+        "item": {
+          "category": "base",
+          "config": {
+            "cpName": "Text",
+            "text": "- Pynk-Co | 品克数码 -",
+            "color": "rgba(88,88,88,1)",
+            "fontSize": 11,
+            "align": "center",
+            "lineHeight": 1,
+            "fontWeight": "600",
+            "fontStyle": "none",
+            "bgColor": "rgba(255,255,255,0)",
+            "padding": 0,
+            "radius": 0,
+            "animation": "none",
+            "animationTurn": 1,
+            "delay": 0,
+            "interaction": {
+              "type": "link",
+              "title": "",
+              "params": "",
+              "content": "",
+              "height": 300,
+              "width": 300,
+              "okText": "",
+              "cancelText": "",
+              "onOk": "",
+              "btnColor": "rgba(20,54,226,100)"
+            }
+          },
+          "h": 20,
+          "type": "Text"
+        },
+        "point": {
+          "w": 40,
+          "h": 60,
+          "x": 1,
+          "y": 290,
+          "i": "973720",
+          "moved": true,
+          "static": false,
+          "isBounded": true
+        },
+        "status": "inToCanvas"
+      },  
+    {
+        "id": "586968",
+
+        "item": {
+          "category": "base",
+          "config": {
+            "cpName": "XButton",
+            "bgColor": "rgba(22,40,212,1)",
+            "align": "left",
+            "width": 255,
+            "marginTop": 0,
+            "padding": [
+              4,
+              20
+            ],
+            "round": 16,
+            "text": "艾诺迪亚4顶配存档长截图",
+            "text1": "①",
+            "weight": "bold",
+            "color": "rgba(255,255,255,1)",
+            "fontSize": 16,
+            "animation": "none",
+            "animationTurn": 1,
+            "delay": 0,
+            "interaction": {
+              "type": "code",
+              "title": "",
+              "params": "",
+              "content": "window.location.href='https://img.alicdn.com/imgextra/i3/358537674/O1CN01lji3Xi26YkBEhsllu_!!358537674.jpg'",
+              "height": 300,
+              "width": 300,
+              "okText": "",
+              "cancelText": "",
+              "onOk": "",
+              "btnColor": "rgba(20,54,226,100)"
+            }
+          },
+          "h": 23,
+          "type": "XButton"
+        },
+        "point": {
+          "w": 24,
+          "h": 23,
+          "x": 0,
+          "y": 65,
+          "i": "586968",
+          "moved": true,
+          "static": false,
+          "isBounded": true
+        },
+        "status": "inToCanvas"
+      },
+      {
+        "id": "359526",
+        "align": "left",
+        "item": {
+          "category": "base",
+          "config": {
+            "cpName": "XButton",
+            "bgColor": "rgba(22,40,212,1)",
+            "align": "left",
+            "width": 255,
+            "marginTop": 0,
+            "padding": [
+              4,
+              20
+            ],
+            "round": 16,
+            "text": "艾诺迪亚3顶配存档长截图",
+            "text1": "②",
+            "weight": "bold",
+            "color": "rgba(255,255,255,1)",
+            "fontSize": 15,
+            "animation": "none",
+            "animationTurn": 1,
+            "delay": 0,
+            "interaction": {
+              "type": "code",
+              "title": "",
+              "params": "",
+              "content": "window.location.href='https://img.alicdn.com/imgextra/i1/358537674/O1CN01Wo0WWn26YkB9IPNNU_!!358537674.jpg'",
+              "height": 300,
+              "width": 300,
+              "okText": "",
+              "cancelText": "",
+              "onOk": "",
+              "btnColor": "rgba(20,54,226,100)"
+            }
+          },
+          "h": 23,
+          "type": "XButton"
+        },
+        "point": {
+          "w": 24,
+          "h": 23,
+          "x": 0,
+          "y": 95,
+          "i": "359526",
+          "moved": true,
+          "static": false,
+          "isBounded": true
+        },
+        "status": "inToCanvas"
+      },
+      {
+        "id": "397488",
+        "item": {
+          "category": "base",
+          "config": {
+            "cpName": "Title",
+            "text": "艾诺迪亚 - 顶配存档",
+            "size": "h1",
+            "color": "rgba(60,60,60,1)",
+            "align": "center",
+            "bgColor": "rgba(255,255,255,0)",
+            "padding": 0,
+            "radius": 0,
+            "animation": "none",
+            "animationTurn": 1,
+            "delay": 0,
+            "interaction": {
+              "type": "link",
+              "title": "",
+              "params": "",
+              "content": "",
+              "height": 300,
+              "width": 300,
+              "okText": "",
+              "cancelText": "",
+              "onOk": "",
+              "btnColor": "rgba(20,54,226,100)"
+            }
+          },
+          "h": 30,
+          "type": "Title"
+        },
+        "point": {
+          "w": 24,
+          "h": 30,
+          "x": 0,
+          "y": 15,
+          "i": "397488",
+          "moved": true,
+          "static": false,
+          "isBounded": true
+        },
+        "status": "inToCanvas"
+      }
+    ]
+  },
+  "msg": ""
+}
