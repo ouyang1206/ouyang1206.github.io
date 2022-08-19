@@ -53,7 +53,106 @@
         },
         "status": "inToCanvas"
       },
-    {
+
+      {
+        "id": "758504",
+        "item": {
+          "category": "base",
+          "config": {
+            "cpName": "Image",
+            "imgUrl": [
+              {
+                "uid": "rc-upload-1656484016827-16",
+                "name": "logo.png",
+                "status": "done",
+                "url": "https://img.alicdn.com/imgextra/i3/358537674/O1CN01z6yRJX26YkBVKKPM8_!!358537674.gif"
+              }
+            ],
+            "round": 0,
+            "viewImage": false,
+            "fullFrame": false,
+            "interaction": {
+              "type": "",
+              "title": "",
+              "params": "",
+              "content": "",
+              "height": 200,
+              "width": 100,
+              "okText": "",
+              "cancelText": "",
+              "onOk": "",
+              "btnColor": "rgba(20,54,226,100)"
+            },
+            "animation": "none",
+            "animationTurn": 1,
+            "delay": 0
+          },
+          "h": 83,
+          "type": "Image"
+        },
+        "point": {
+          "w": 2,
+          "h": 9,
+          "x": 20.5,
+          "y": 158,
+          "i": "758506",
+          "moved": true,
+          "static": false,
+          "isBounded": true
+        },
+        "status": "inToCanvas"
+      },
+
+      {
+        "id": "758514",
+        "item": {
+          "category": "base",
+          "config": {
+            "cpName": "Image",
+            "imgUrl": [
+              {
+                "uid": "rc-upload-1656484016827-16",
+                "name": "logo.png",
+                "status": "done",
+                "url": "https://img.alicdn.com/imgextra/i4/358537674/O1CN01ScOHx226YkBPszsLF_!!358537674.gif"
+              }
+            ],
+            "round": 0,
+            "viewImage": false,
+            "fullFrame": false,
+            "interaction": {
+              "type": "",
+              "title": "",
+              "params": "",
+              "content": "",
+              "height": 200,
+              "width": 100,
+              "okText": "",
+              "cancelText": "",
+              "onOk": "",
+              "btnColor": "rgba(20,54,226,100)"
+            },
+            "animation": "none",
+            "animationTurn": 1,
+            "delay": 0
+          },
+          "h": 83,
+          "type": "Image"
+        },
+        "point": {
+          "w": 2,
+          "h": 12,
+          "x": 20,
+          "y": 98,
+          "i": "758506",
+          "moved": true,
+          "static": false,
+          "isBounded": true
+        },
+        "status": "inToCanvas"
+      },
+
+      {
         "id": "973720",
         "item": {
           "category": "base",
@@ -99,8 +198,8 @@
           "isBounded": true
         },
         "status": "inToCanvas"
-      },  
-    {
+      },
+      {
         "id": "586968",
 
         "item": {
@@ -308,7 +407,7 @@
         },
         "status": "inToCanvas"
       },
-{
+      {
         "id": "633067",
         "align": "left",
         "item": {
@@ -324,7 +423,7 @@
               20
             ],
             "round": 16,
-            "text": "艾诺迪亚4定制修改套餐",
+            "text": "艾4 - 定制修改已有存档",
             "text1": "④",
             "weight": "bold",
             "color": "rgba(255,255,255,1)",
@@ -360,6 +459,56 @@
         },
         "status": "inToCanvas"
       },
+
+
+      {
+        "id": "246004",
+        "item": {
+          "category": "base",
+          "config": {
+            "cpName": "Text",
+            "text": "【开背包,刷金币,任意物品,改佣兵等..】",
+            "color": "rgba(240,32,10,1)",
+            "fontSize": 14,
+            "align": "center",
+            "lineHeight": 2,
+            "fontWeight": "400",
+            "fontStyle": "none",
+            "bgColor": "rgba(255,255,255,0)",
+            "padding": 0,
+            "radius": 0,
+            "animation": "none",
+            "animationTurn": 1,
+            "delay": 0,
+            "interaction": {
+              "type": "link",
+              "title": "",
+              "params": "",
+              "content": "",
+              "height": 300,
+              "width": 300,
+              "okText": "",
+              "cancelText": "",
+              "onOk": "",
+              "btnColor": "rgba(20,54,226,100)"
+            }
+          },
+          "h": 20,
+          "type": "Text"
+        },
+        "point": {
+          "w": 24,
+          "h": 20,
+          "x": 0,
+          "y": 172,
+          "i": "246003",
+          "moved": true,
+          "static": false,
+          "isBounded": true
+        },
+        "status": "inToCanvas"
+      },
+
       {
         "id": "246003",
         "item": {
