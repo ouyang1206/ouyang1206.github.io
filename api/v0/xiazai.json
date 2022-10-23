@@ -360,7 +360,7 @@
               "type": "code",
               "title": "",
               "params": "",
-              "content": " \n   const input = document.createElement('input');\n \tinput.setAttribute('readonly', 'readonly');\n \tinput.setAttribute('value', 'ouyangriming@qq.com');\n \tdocument.body.appendChild(input);\n \tinput.setSelectionRange(0, 9999);\n \tinput.select();\n   document.execCommand('copy');\n \tdocument.body.removeChild(input); \nalert('账号复制成功');",
+              "content": " \n   const input = document.createElement('input');\n \tinput.setAttribute('readonly', 'readonly');\n \tinput.setAttribute('value', 'ouyangriming@qq.com');\n \tdocument.body.appendChild(input);\n \tinput.setSelectionRange(0, 9999);\n \tinput.select();\n   document.execCommand('copy');\n \tdocument.body.removeChild(input); \nalert('账号复制成功（是登商店,不是设置里!!)');",
               "height": 300,
               "width": 300,
               "okText": "",
