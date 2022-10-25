@@ -331,7 +331,7 @@
               "type": "code",
               "title": "",
               "params": "",
-              "content": "window.location.href='https://cloud.video.taobao.com//play/u/358537674/p/2/e/6/t/1/369335022010.mp4'",
+              "content": "window.location.href='?tid=zhuce'",
               "height": 300,
               "width": 300,
               "okText": "",
