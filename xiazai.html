@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 
@@ -41,8 +41,11 @@
 
 
     <div class="box-wrap0">
-          <video style="height:400px;"  onplay="xianshi()"  poster="https://img.alicdn.com/imgextra/i4/2796879828/O1CN01IPb70F2MTHKdxUXWE_!!2796879828.jpg" src="https://cloud.video.taobao.com//play/u/2796879828/p/1/e/6/t/1/389356803185.mp4" controls="controls"></video>
+        <img  style="height:400px;"  onclick="xianshi()" src="  https://img.alicdn.com/imgextra/i1/2796879828/O1CN01EQff0R2MTHKiGDMbc_!!2796879828.jpg">
 
+
+      
+       
         <div class="tx3">
 
             <div style="width:250px; display: inline-block;">账号: ouyangriming@qq.com</div>
@@ -52,7 +55,7 @@
         <div class="tx3">
 
             <div id="pw1" style="width:250px; display: inline-block;">密码: 请先观看视频教程</div>
-            <a id="pw2" class="anniu2"  hidden="hidden" onclick="fuzhi('aA4681464','密码复制成功')">复制</a>
+            <a id="pw2" class="anniu2" hidden="hidden" onclick="fuzhi('aA4681464','密码复制成功')">复制</a>
         </div>
         <div style="font-size:17px;color:red;">【是登录商店,请勿登录设置里】</div>
 
@@ -77,6 +80,8 @@
             function xianshi() {
                 document.getElementById('pw1').innerHTML ="密码: aA4681464";
                 document.getElementById('pw2').removeAttribute("hidden");
+
+                window.location.href = 'https://cloud.video.taobao.com//play/u/2796879828/p/1/e/6/t/1/389356803185.mp4';
             }
 
 
